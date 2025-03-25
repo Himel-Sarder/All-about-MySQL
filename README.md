@@ -14,10 +14,28 @@
 ### If there are same column name --> natural join = inner join/join
 ### If there are not a similar column name --> natural join = cross join
 ![image](https://github.com/user-attachments/assets/eb29afc1-f462-4a5f-9ad8-651ab86f0cd1)
+
 # SQL Window Function
 ## row_number()
 ![image](https://github.com/user-attachments/assets/8052343e-ea57-464a-8c3d-1b936dcd8a05)
+![image](https://github.com/user-attachments/assets/ad086ee5-3dbe-477e-b20f-d04a35cabd77)
+![image](https://github.com/user-attachments/assets/9d1738ec-9ddb-4c8b-8693-6e066384c83c)
+![image](https://github.com/user-attachments/assets/cf0c9ccb-30e7-4a5d-ae8d-f5ff34f6bdfd)
 ![image](https://github.com/user-attachments/assets/28662fff-33a0-47f6-a826-e858316be441)
+## rank()
+![image](https://github.com/user-attachments/assets/f59f7a56-5844-44b8-8e2d-f80ecf87a9f5)
+## dense_rank()
+![image](https://github.com/user-attachments/assets/171311e5-a5c5-40ab-8881-3dc0ee09dff9)
+## Difference 
+![image](https://github.com/user-attachments/assets/a4bf25ea-8c28-438f-97e8-9368d63c4e91)
+## lag()
+![image](https://github.com/user-attachments/assets/69f58fcf-fcf5-41fb-96a3-a90b3d52c95f)
+![image](https://github.com/user-attachments/assets/4fcad5a6-461d-4755-82ec-2147f16a4747)
+![image](https://github.com/user-attachments/assets/ab2f0c1c-d599-4b17-ae54-0f9b463b4368)
+## lead()
+![image](https://github.com/user-attachments/assets/8772dced-2f85-4986-a748-6738eafe7945)
+
+
 
 
 
