@@ -13,6 +13,8 @@
 ![image](https://github.com/user-attachments/assets/b9ddbbb0-d014-4264-b9c9-23483e2e8263)
 ### If there are same column name --> natural join = inner join/join
 ### If there are not a similar column name --> natural join = cross join
+![image](https://github.com/user-attachments/assets/eb29afc1-f462-4a5f-9ad8-651ab86f0cd1)
+
 
 
 
