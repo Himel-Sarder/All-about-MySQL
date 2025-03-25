@@ -14,6 +14,11 @@
 ### If there are same column name --> natural join = inner join/join
 ### If there are not a similar column name --> natural join = cross join
 ![image](https://github.com/user-attachments/assets/eb29afc1-f462-4a5f-9ad8-651ab86f0cd1)
+# SQL Window Function
+## row_number()
+![image](https://github.com/user-attachments/assets/8052343e-ea57-464a-8c3d-1b936dcd8a05)
+![image](https://github.com/user-attachments/assets/28662fff-33a0-47f6-a826-e858316be441)
+
 
 
 
