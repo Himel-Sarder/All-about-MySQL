@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/d8fae732-1dda-4993-8103-e964e3965242)
 ![image](https://github.com/user-attachments/assets/00cfe04b-6598-4118-a5e4-9a0eb265044a)
 ![image](https://github.com/user-attachments/assets/b9ddbbb0-d014-4264-b9c9-23483e2e8263)
-### Tf there are same column name --> natural join = inner join/join
+### If there are same column name --> natural join = inner join/join
 ### If there are not a similar column name --> natural join = cross join
 
 
