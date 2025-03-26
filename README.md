@@ -66,6 +66,13 @@
 ![image](https://github.com/user-attachments/assets/00eda53c-6ddd-459e-a790-0ee67933d587)
 ![image](https://github.com/user-attachments/assets/25507055-503f-46ef-94d9-eafeea992946)
 
+# Aggregate functions
+![image](https://github.com/user-attachments/assets/6a6a82a4-ddfd-4255-9d2a-fd4083e9bd9e)
+![image](https://github.com/user-attachments/assets/d1194fbc-a8d1-437a-85ff-d7ddf52d44d8)
+![image](https://github.com/user-attachments/assets/5fb0332f-874a-4cad-bcc7-b3f5fd642692)
+![image](https://github.com/user-attachments/assets/034354b7-a2f3-4c88-aa3e-4c17a28f408d)
+![image](https://github.com/user-attachments/assets/8fe59de4-25ae-409d-a886-ca054f46740b)
+![image](https://github.com/user-attachments/assets/6fdd1b7e-2b29-4351-88fc-c3ef79ba97ea)
 
 
 
