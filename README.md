@@ -35,9 +35,12 @@
 ## lead()
 ![image](https://github.com/user-attachments/assets/8772dced-2f85-4986-a748-6738eafe7945)
 
-
-
-
+# With Clause
+![image](https://github.com/user-attachments/assets/bbd38c72-3d3f-446f-a0dd-1dbbd308de4b)
+![image](https://github.com/user-attachments/assets/3451edb5-64a3-4af9-b76b-0a22d9a1848a)
+![image](https://github.com/user-attachments/assets/69e58ae6-0560-47db-a9ad-8c3f1f37098e)
+![image](https://github.com/user-attachments/assets/5e5309d1-de51-4d49-8372-5d2cfa6031b7)
+![image](https://github.com/user-attachments/assets/9d0bd090-2127-4215-8ec1-dd8df5138134)
 
 
 
