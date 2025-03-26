@@ -45,6 +45,11 @@
 ![image](https://github.com/user-attachments/assets/9d0bd090-2127-4215-8ec1-dd8df5138134)
 ![image](https://github.com/user-attachments/assets/a884a845-d4e9-4c09-97e5-45d7b4059531)
 
+# View
+![image](https://github.com/user-attachments/assets/4a2f77a8-a717-4f92-94b3-8e254a8a2247)
+![image](https://github.com/user-attachments/assets/98ef552f-1784-449e-a3ca-f30443c318da)
+![image](https://github.com/user-attachments/assets/ec7ac4e1-5a41-4de0-bf20-54db93396895)
+
 
 
 
